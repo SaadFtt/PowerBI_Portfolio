@@ -5,7 +5,7 @@ Welcome to my portfolio! Below are some of the projects I've worked on during va
 
 ## Projects
 
-### 1. [OCP Sales Analysis](./ocp-sales-analysis/README.md)
+### 1. [OCP Sales Analysis](https://github.com/SaadFtt/OCP_sales_Analysis/blob/main/README.md)
    - **Description**: Developed a comprehensive sales analysis dashboard that tracks sales performance, product demand, and quality metrics.
    - **Technologies**: Power BI, MySQL, Talend OpenStudio
 
